@@ -18,9 +18,9 @@
 2) Publique no Github Pages: [Como publicar meu projeto com GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 3) Utilize o tópico:
 
-  - **challengeonealuraflixbr4**
+  - **challengeonealuraflixbr3**
   
- Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no Github e adicione a tag "**challengeonealuraflixbr4**".
+ Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no Github e adicione a tag "**challengeonealuraflixbr3**".
  
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
